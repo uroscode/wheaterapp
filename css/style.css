@@ -1,0 +1,39 @@
+html {
+    margin:0;
+    padding:0;
+    text-align: center;
+}
+
+body{
+
+}
+#cover{
+    background-image: url("../img/sunny.jpg");
+    background-size: cover;
+    height:850px;
+    width:100%;
+}
+h1,h2,h3,h4,h5,h6,p {
+    color:whitesmoke;
+}
+.heading{
+    text-align: center !important;
+}
+from {
+    text-align: center;
+}
+
+.info-weather {
+    display: none;
+}
+.table{
+    margin-top:20px;
+    border-radius: 10px!important;
+}
+
+#submitWeather{
+    display: flex;
+    margin: 0 auto;
+    margin-bottom: 70px;
+
+}
